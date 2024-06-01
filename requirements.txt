@@ -1,0 +1,9 @@
+langchain-huggingface
+ipykernel
+python-dotenv
+huggingface_hub
+ipywidgets
+accelerate
+bitsandbytes
+langchain
+langchain_community
